@@ -1,4 +1,4 @@
-**NYPC 코드배틀 본선 진출**  
+<h1 style="font-size:3em;" align="center">🏆 NYPC 코드배틀 본선 진출 🏆</h1>
 
 # NYPC 코드배틀 예선 후기
 
